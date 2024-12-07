@@ -1,0 +1,3 @@
+config BOARD_C87
+	bool "C87"
+	depends on SOC_NRF52840_QIAA
